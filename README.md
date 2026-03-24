@@ -19,6 +19,7 @@
 
 ## How to run
 "BEST TO RUN ON GOOGLE COLAB"
+Uplpad ipynb file to google colab
 1. Place `creditcard.csv` in the same folder as the notebook.
 2. Run all cells in `524_project.ipynb`.
 
