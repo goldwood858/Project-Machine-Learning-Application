@@ -18,6 +18,7 @@
 - Libraries: pandas, numpy, scikit-learn, imbalanced-learn, xgboost, matplotlib, seaborn, joblib
 
 ## How to run
+"BEST TO RUN ON GOOGLE COLAB"
 1. Place `creditcard.csv` in the same folder as the notebook.
 2. Run all cells in `524_project.ipynb`.
 
